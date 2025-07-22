@@ -1,8 +1,6 @@
 # nanomaterial-sensors-review
 Review Article on Nanomaterial-Based Sensors for Biomedical and Pharmaceutical Application
-# Nanomaterial-Sensors-Review
-
-📄 **[Download Full Review Article (PDF)] project - nanomaterial -based sensors.pdf**  
+📄 **[Download Full Review Article (PDF)](project%20-%20nanomaterial%20-based%20sensors.pdf)**  
 *(Click the link above to read the full article)*
 ## Overview
 This repository hosts the review article titled:
